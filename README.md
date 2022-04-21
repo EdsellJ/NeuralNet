@@ -1,6 +1,6 @@
 # NeuralNet
 
-##About
+## About
 This is a small c++ program that will initialize a neural network of nodes with random names and random weights
 
 ### To Compile and run use "sh run.sh"
